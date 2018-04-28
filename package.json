@@ -1,0 +1,24 @@
+{
+  "name": "react-native-styled-helper-components",
+  "version": "0.1.0",
+  "description": "This is a simple module of components that I use a lot in my daily code, so i created some components for that.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philolo1/react-native-styled-helper-components.git"
+  },
+  "keywords": [
+    "react-native",
+    "styling",
+    "helper"
+  ],
+  "author": "Patrick Klitzke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philolo1/react-native-styled-helper-components/issues"
+  },
+  "homepage": "https://github.com/philolo1/react-native-styled-helper-components#readme"
+}
